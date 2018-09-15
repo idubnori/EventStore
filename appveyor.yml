@@ -1,5 +1,7 @@
 version: 1.0.{build}
 image: Visual Studio 2017
+init:
+- cmd: ver
 build_script:
 - ps: .\build.cmd -Configuration debug -Platform x64
 test_script:
