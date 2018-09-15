@@ -13,7 +13,7 @@ Information on commercial support and options such as LDAP authentication can be
 | OS | Status |
 |------:|--------:|
 |**Ubuntu 14.04**|[![Build status](https://app.wercker.com/status/efbd313efd4406243ca7b6688ddbc286/s/release-v4.0.0 "wercker status")](https://app.wercker.com/project/byKey/efbd313efd4406243ca7b6688ddbc286)|
-|**Windows 8.1**|[![Build status](https://ci.appveyor.com/api/projects/status/rpg0xvt6facomw0b?svg=true)](https://ci.appveyor.com/project/EventStore/eventstore-aasj1)|
+|**Windows 10**|[![Build status](https://ci.appveyor.com/api/projects/status/rpg0xvt6facomw0b?svg=true)](https://ci.appveyor.com/project/EventStore/eventstore-aasj1)|
 
 ## Documentation
 Documentation for Event Store can be found [here](https://eventstore.org/docs/)
